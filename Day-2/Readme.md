@@ -9,6 +9,8 @@ The objective is to use supervised learning to predict the outcome (1 = Diabetes
 
 File: diabetes data.csv
 
+Dataset File link: https://www.dropbox.com/s/uh7o7uyeghq...
+
 Shape: 768 rows × 9 columns
 
 Features include:
