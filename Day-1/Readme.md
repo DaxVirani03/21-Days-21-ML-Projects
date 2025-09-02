@@ -15,6 +15,8 @@ Source: Sonar Dataset (UCI Machine Learning Repository).
 
 File: Copy of sonar data.csv
 
+Dataset file link: https://drive.google.com/file/d/1pQxt...
+
 Shape: 208 rows × 61 columns
 
 60 continuous attributes (sonar signal energy at different frequencies).
