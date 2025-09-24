@@ -1,1 +1,1 @@
-# 21-Days-21-ML-Prrojects
+# 21-Days-21-ML-Projects
